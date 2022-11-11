@@ -1,8 +1,4 @@
-from xml.dom import DomstringSizeErr
-from xmlrpc.server import DocCGIXMLRPCRequestHandler
-
-
-10 20
+10 is 20
 x is 10 and y is 20
 10 multiplied by 20 is 200
 10 multipied by 20 is 200
