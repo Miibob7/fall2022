@@ -1,7 +1,7 @@
 score = 0
 answer = input("whats nine plus ten?")
 if answer == "21":
-    score = scrore + 1
+    score = score + 1
     print ("good job kiddo")
 else: 
     print("its '19'.")

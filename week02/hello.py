@@ -1,2 +1,1 @@
-print("Hello, World!
-d")
+print("Hello, World!")
